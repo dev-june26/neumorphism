@@ -1,0 +1,30 @@
+.container{
+    height: 500px;
+    width: 700px;
+    border-radius: 25px;
+    margin-top: 150px;
+    margin-left: 400px;
+    background-color: rgb(71, 71, 71);
+}
+
+
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(71, 71, 71);
+    position:relative;
+    top: 30%;
+    left: 10%;
+    border-radius: 25px;;
+    box-shadow: -3px -3px 5px rgb(151, 150, 150), 3px 3px 5px black;
+}
+
+.box2{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(71, 71, 71);
+    margin-left: 425px;
+    margin-top: -50px;
+    border-radius: 25px;;
+    box-shadow: inset -3px -3px 5px rgb(151, 150, 150),inset 3px 3px 5px black;
+}
